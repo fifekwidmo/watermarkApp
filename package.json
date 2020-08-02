@@ -1,0 +1,10 @@
+{
+  "name": "Zad4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fifekwidmo/watermarkApp.git",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
