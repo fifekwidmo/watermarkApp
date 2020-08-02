@@ -5,6 +5,7 @@
   "repository": "https://github.com/fifekwidmo/watermarkApp.git",
   "license": "MIT",
   "dependencies": {
+    "inquirer": "6.5.0",
     "jimp": "0.6.4"
   }
 }
